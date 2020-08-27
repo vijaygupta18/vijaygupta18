@@ -9,6 +9,9 @@ in Information Technology from Kamla Nehru Institute of Technology(2018-2022), S
 I have enjoyed learning the Python,C++ and web development,still learning though ;) .
 
 As i am a learner, I am working each day to  grow my coding skill set and knowledge about new technology.
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<vijaygupta18>&theme=<THEME_NAME>" />
 <!--
 **vijaygupta18/vijaygupta18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
