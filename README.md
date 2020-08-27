@@ -8,7 +8,7 @@ in Information Technology from Kamla Nehru Institute of Technology(2018-2022), S
 
 As i am a learner, I am working each day to  grow my coding skill set and knowledge about new technology.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&theme=tokyonight)
 <!--
 **vijaygupta18/vijaygupta18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
