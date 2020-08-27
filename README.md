@@ -9,7 +9,7 @@ in Information Technology from Kamla Nehru Institute of Technology(2018-2022), S
 As i am a learner, I am working each day to  grow my coding skill set and knowledge about new technology.
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -21,7 +21,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://www.linkedin.com/in/heinz-martin/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&theme=dark)
 <!--
 **vijaygupta18/vijaygupta18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
