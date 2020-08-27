@@ -21,7 +21,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 [2]: https://www.linkedin.com/in/vijaygupta18/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&theme=merko)
 <!--
 **vijaygupta18/vijaygupta18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
