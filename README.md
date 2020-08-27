@@ -21,7 +21,7 @@ You can find me on LinkedIn  [![LinkedIn][2.2]][2].
 
 [2]: https://www.linkedin.com/in/vijaygupta18/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&show_icons=true&card_width=5&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&show_icons=true&hide=issues&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
