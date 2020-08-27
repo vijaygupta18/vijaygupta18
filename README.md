@@ -9,7 +9,7 @@ in Information Technology from Kamla Nehru Institute of Technology(2018-2022), S
 As i am a learner, I am working each day to  grow my coding skill set and knowledge about new technology.
 <!-- Actual text -->
 
-You can find me on LinkedIn  [![LinkedIn][2.2]][2].
+You can find me on LinkedIn::  [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -21,7 +21,7 @@ You can find me on LinkedIn  [![LinkedIn][2.2]][2].
 
 [2]: https://www.linkedin.com/in/vijaygupta18/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&show_icons=true&hide=issues,contributed_to&include_all_commits=true&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&show_icons=true&hide=issues,to&include_all_commits=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
