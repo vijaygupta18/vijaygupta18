@@ -7,9 +7,19 @@ I am a college student and currently pursuing my bachelor's degree and studying 
 in Information Technology from Kamla Nehru Institute of Technology(2018-2022), Sultanpur.
 
 As i am a learner, I am working each day to  grow my coding skill set and knowledge about new technology.
-You can find me on [![LinkedIn][3.2]][3].
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[2]: https://www.linkedin.com/in/vijaygupta18/
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&theme=tokyonight)
 <!--
