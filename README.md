@@ -4,7 +4,9 @@ I'm an upcoming Web and software developer engineer.
 I am a college student and currently pursuing my bachelor's degree and studying B.tech
 in Information Technology from Kamla Nehru Institute of Technology(2018-2022), Sultanpur.
 
-I have enjoyed learning the Python,C++ and web development and I am working each day to further grow my coding skill set and knowledge.
+I have enjoyed learning the Python,C++ and web development,still learning though ;) .
+
+As i am a learner, I am working each day to  grow my coding skill set and knowledge about new technology.
 <!--
 **vijaygupta18/vijaygupta18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
