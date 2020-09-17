@@ -1,9 +1,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-I'm an upcoming Web and software developer engineer. 
+I'm a Web and software developer engineer. 
 
-I am a college student and currently pursuing my bachelor's degree and studying B.tech
+I am a college student and currently pursuing my bachelor's degree
 in Information Technology from Kamla Nehru Institute of Technology(2018-2022), Sultanpur.
 
 As i am a learner, I am working each day to  grow my coding skill set and knowledge about new technology.
