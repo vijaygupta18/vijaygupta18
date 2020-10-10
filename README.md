@@ -23,7 +23,7 @@ You can find me on LinkedIn::  [![LinkedIn][2.2]][2].
 
 ![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&hide=&layout=compact)
-![Visitors](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&theme=radical)
+![VisitorCount](https://profile-counter.glitch.me/vijaygupta18/count.svg)
 <!--
 **vijaygupta18/vijaygupta18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
