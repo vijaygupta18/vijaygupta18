@@ -24,7 +24,7 @@ You can find me on LinkedIn::  [![LinkedIn][2.2]][2].
 ![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&hide=&layout=compact)
 
-## Hello Visitor
+## Total Visitor
 
 ![VisitorCount](https://profile-counter.glitch.me/vijaygupta18/count.svg)
 <!--
