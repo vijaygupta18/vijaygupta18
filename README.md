@@ -9,6 +9,9 @@ in Information Technology from Kamla Nehru Institute of Technology(2018-2022), S
 As i am a learner, I am working each day to  grow my coding skill set and knowledge about new technology.
 <!-- Actual text -->
 
+- ⚡ Fun fact **Chai,Code,Chill**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vijaygupta18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vijaygupta18" height="30" width="40" /></a>
