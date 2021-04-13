@@ -9,7 +9,7 @@ in Information Technology from Kamla Nehru Institute of Technology(2018-2022), S
 As i am a learner, I am working each day to  grow my coding skill set and knowledge about new technology.
 <!-- Actual text -->
 
-- ⚡ Fun fact *Three C of my life: Chai,Code and Chill*
+- ⚡ Fun fact _Three C of my life: Chai,Code and Chill_
 
 
 <h3 align="left">Connect with me:</h3>
