@@ -11,7 +11,7 @@ As i am a learner, I am working each day to  grow my coding skill set and knowle
 
 - ⚡ Fun fact **Three C of my life**: ***Chai,Code and Chill***
 
-<img src="cat.gif" width="100" height="100" border-radius="10px" />
+                                   <img src="cat.gif" width="200" height="200" />
 
 
 <h3 align="left">Connect with me:</h3>
