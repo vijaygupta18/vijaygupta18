@@ -1,10 +1,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-I'm a Web and software developer engineer. 
+I'm a software developer engineer. 
 
-I am a college student and currently pursuing my bachelor's degree
-in Information Technology from KNIT(2018-2022), Sultanpur.
+I have donne my bachelor's degree in Information Technology from KNIT(2018-2022), Sultanpur.
 
 As i am a learner, I am working each day to  grow my coding skill set and knowledge about new technology.
 <!-- Actual text -->
