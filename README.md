@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-I'm a Software Development Engineer. 
+I'm a Software Engineer. 
 
 I have donne my bachelor's degree in Information Technology from KNIT(2018-2022), Sultanpur.
 
