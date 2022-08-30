@@ -24,7 +24,7 @@ As i am a learner, I am working each day to  grow my coding skill set and knowle
 <br>
 
 ![Vijay's github stats](https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&hide=&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&hide=&layout=compact) --!>
 
 ## Total Visitor
 
