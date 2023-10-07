@@ -5,7 +5,6 @@ I'm a Software Engineer.
 
 I have done my bachelor's degree in Information Technology from KNIT(2018-2022), Sultanpur.
 
-As i am a learner, I am working each day to  grow my coding skill set and knowledge about new technology.
 <!-- Actual text -->
 
 - ⚡ Fun fact **Three C of my life**: ***Chai,Code and Chill***
