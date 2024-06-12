@@ -3,7 +3,7 @@
 
 I'm a Software Engineer. 
 
-I have done my bachelor's degree in Information Technology from KNIT(2018-2022), Sultanpur.
+<!--I have done my bachelor's degree in Information Technology from KNIT(2018-2022), Sultanpur.
 
 <!-- Actual text -->
 
