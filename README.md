@@ -1,7 +1,7 @@
 # Hey there! I'm Vijay Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;System+Design;Full-Stack+Developer;Three+C's%3A+Chai%2C+Code+and+Chill!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Three+C's%3A+Chai%2C+Code+and+Chill!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 **Software Engineer** passionate about building scalable distributed systems and cloud-native applications.
 
 - 🎓 **Education:** B.Tech in Information Technology | KNIT Sultanpur (2018–2022)
-- 💭 **Motto:** Three C's of my life: Chai, Code and Chill ☕💻🌟
+<!-- 💭 **Motto:** Three C's of my life: Chai, Code and Chill ☕💻🌟 -->
 - 🎯 **Current Focus:** Building scalable distributed systems & cloud-native applications
 - ⚡ **Fun Fact:** I architect distributed systems better with a cup of chai in hand!
 
