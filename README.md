@@ -13,21 +13,14 @@
 
 ## 🚀 About Me
 
-<pre>
-```typescript
-const vijay = {
-    title: "Software Engineer",
-    education: "B.Tech in Information Technology | KNIT Sultanpur (2018–2022)",
-    motto: "Three C's of my life: Chai, Code and Chill ☕💻🌟",
-    currentFocus: "Building scalable distributed systems & cloud-native applications",
-    specializations: ["Software Development", "System Design"],
-    askMeAbout: ["Distributed Systems", "System Design", "Cloud Architecture", "Full-Stack Development"],
-    funFact: "I architect distributed systems better with a cup of chai in hand!"
-};
-```
-</pre>
+**Software Engineer** passionate about building scalable distributed systems and cloud-native applications.
 
-
+- 🎓 **Education:** B.Tech in Information Technology | KNIT Sultanpur (2018–2022)
+- 💭 **Motto:** Three C's of my life: Chai, Code and Chill ☕💻🌟
+- 🎯 **Current Focus:** Building scalable distributed systems & cloud-native applications
+- 🔧 **Specializations:** Software Development, System Design
+- 💬 **Ask me about:** Distributed Systems, System Design, Cloud Architecture, Full-Stack Development
+- ⚡ **Fun Fact:** I architect distributed systems better with a cup of chai in hand!
 
 ## 🛠️ Tech Arsenal
 
@@ -140,9 +133,6 @@ const vijay = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
-
-
-
 
 <div align="center">
   
