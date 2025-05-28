@@ -1,145 +1,147 @@
-# Hey there! I'm Vijay Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Vijay Gupta
+**Senior Software Engineer** | **Distributed Systems Architect** | **Cloud Solutions Expert**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;System+Design+Expert;Full-Stack+Developer;Three+C's%3A+Chai%2C+Code+and+Chill!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Distributed+Systems+Architect;Cloud+Solutions+Expert;Building+Scalable+Enterprise+Systems" alt="Professional Title Animation" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaygupta18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vijaygupta18?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://linkedin.com/in/vijaygupta18"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=vijaygupta18&label=Profile+Views&color=2E8B57&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## Professional Summary
 
-**Software Engineer** passionate about building scalable distributed systems and cloud-native applications.
+Distinguished Software Engineer with expertise in designing and implementing large-scale distributed systems and cloud-native architectures. Proven track record of delivering high-performance, fault-tolerant systems that serve millions of users while maintaining exceptional reliability and scalability standards.
 
-- 🎓 **Education:** B.Tech in Information Technology | KNIT Sultanpur (2018–2022)
-- 💭 **Motto:** Three C's of my life: Chai, Code and Chill ☕💻🌟
-- 🎯 **Current Focus:** Building scalable distributed systems & cloud-native applications
-- 🔧 **Specializations:** Software Development, System Design
-- 💬 **Ask me about:** Distributed Systems, System Design, Cloud Architecture, Full-Stack Development
-- ⚡ **Fun Fact:** I architect distributed systems better with a cup of chai in hand!
+**Core Competencies:** System Architecture Design • Distributed Computing • Cloud Infrastructure • Performance Engineering • Technical Leadership
 
-## 🛠️ Tech Arsenal
+---
 
-<div align="center">
+## Technical Expertise
 
-### 💻 Programming Languages
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PureScript](https://img.shields.io/badge/-PureScript-1D222D?style=for-the-badge&logo=purescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### **Systems & Architecture**
+```
+Distributed Systems    ████████████████████ 100%
+System Design         ████████████████████ 100%
+Microservices         ███████████████████▓ 95%
+Event-Driven Arch.    ███████████████████▓ 95%
+Performance Tuning    ███████████████████▓ 95%
+```
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### **Programming Languages**
+<div align="left">
 
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+**Primary:** ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### 📡 Message Brokers & Streaming
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🔧 Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🎯 Core Specializations
-![System Design](https://img.shields.io/badge/-System%20Design-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white)
-![Performance Optimization](https://img.shields.io/badge/-Performance%20Optimization-4ECDC4?style=for-the-badge&logo=speedtest&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-45B7D1?style=for-the-badge&logo=cluster&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-96CEB4?style=for-the-badge&logo=microservices&logoColor=white)
-![Event-Driven Architecture](https://img.shields.io/badge/-Event--Driven%20Architecture-FFEAA7?style=for-the-badge&logo=eventbrite&logoColor=black)
+**Secondary:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PureScript](https://img.shields.io/badge/PureScript-1D222D?style=flat-square&logo=purescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </div>
 
-## 📊 GitHub Analytics
+### **Cloud & Infrastructure**
+<div align="left">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+
+</div>
+
+### **Data & Messaging**
+<div align="left">
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+
+</div>
+
+### **Development & Tools**
+<div align="left">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+</div>
+
+---
+
+## Architecture Principles
+
+**Scalability First** — Design systems that gracefully handle exponential growth  
+**Fault Tolerance** — Build resilient systems that recover automatically from failures  
+**Performance Optimization** — Achieve sub-millisecond response times at scale  
+**Observability** — Implement comprehensive monitoring and distributed tracing  
+**Security by Design** — Embed security considerations into every architectural decision
+
+---
+
+## Professional Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&layout=compact&langs_count=8&theme=tokyonight"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&custom_title=Engineering+Contributions&title_color=2E8B57&icon_color=2E8B57&text_color=333&bg_color=00000000"/>
+      </td>
+      <td align="center">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&layout=compact&theme=transparent&hide_border=true&custom_title=Technology+Stack&title_color=2E8B57&text_color=333&bg_color=00000000&langs_count=6"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&theme=transparent&hide_border=true&stroke=2E8B57&ring=2E8B57&fire=FF6347&currStreakLabel=2E8B57" alt="Contribution Streak" />
 </div>
 
-## 🏆 GitHub Achievements
+---
+
+## Current Focus Areas
+
+🔬 **Research & Development**
+- Advanced distributed consensus algorithms
+- Edge computing optimization strategies
+- Serverless architecture patterns
+
+🏗️ **System Architecture**
+- Event sourcing and CQRS implementations
+- Multi-region deployment strategies
+- Chaos engineering practices
+
+📈 **Performance Engineering**
+- Database optimization techniques
+- Caching strategies at scale
+- Real-time data processing pipelines
+
+---
+
+## Professional Network
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijaygupta18&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 💡 What I'm Up To
-
-- 🔭 Currently working on **distributed systems and microservices architecture**
-- 🌱 Learning **advanced cloud-native patterns and event-driven architectures**
-- 👯 Looking to collaborate on **open source distributed systems projects**
-- 💬 Ask me about **System Design, Microservices, Performance Optimization, and Cloud Architecture**
-- 📫 Reach me at: **[Your Email]**
-- ⚡ Fun fact: **I design scalable systems better with chai! ☕**
-
-## 🌐 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/vijaygupta18" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/vijaygupta18" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/vijayguptaa18" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/people/vijay-gupta/100050936141588" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.codechef.com/users/rdxvijay" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  <a href="https://www.codechef.com/users/rdxvijay" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </div>
 
-## 📈 Contribution Graph
+---
+
+## Academic Foundation
+
+**Bachelor of Technology** in Information Technology  
+*Kamla Nehru Institute of Technology, Sultanpur* | **2018–2022**
+
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaygupta18&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
-## 💭 Dev Quote of the Day
+**Engineering Excellence Through Thoughtful Design**
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
+*Building tomorrow's distributed systems today*
 
-<div align="center">
-  
-  **Thanks for stopping by! 😊**
-  
-  *"The best distributed systems are architected with a cup of chai and thoughtful design!" ☕🏗️*
-  
-  ![Visitor Count](https://profile-counter.glitch.me/vijaygupta18/count.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaygupta18&theme=minimal&hide_border=true&area=true&color=2E8B57&line=2E8B57&point=FF6347&area_color=2E8B57" alt="Contribution Activity" />
+
+![Visitor Count](https://profile-counter.glitch.me/vijaygupta18/count.svg)
 
 </div>
