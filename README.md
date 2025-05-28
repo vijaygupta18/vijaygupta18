@@ -1,7 +1,7 @@
 # Hey there! I'm Vijay Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;System+Design+Expert;Full-Stack+Developer;Three+C's%3A+Chai%2C+Code+and+Chill!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;System+Design;Full-Stack+Developer;Three+C's%3A+Chai%2C+Code+and+Chill!" alt="Typing SVG" />
 </div>
 
 <p align="center">
