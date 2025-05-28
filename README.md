@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
-<pre lang="markdown">
-```ts
+<pre>
+```typescript
 const vijay = {
     title: "Software Engineer",
-    education: "B.Tech in Information Technology | KNIT Sultanpur (2018-2022)",
+    education: "B.Tech in Information Technology | KNIT Sultanpur (2018–2022)",
     motto: "Three C's of my life: Chai, Code and Chill ☕💻🌟",
     currentFocus: "Building scalable distributed systems & cloud-native applications",
     specializations: ["Software Development", "System Design"],
@@ -26,6 +26,7 @@ const vijay = {
 };
 ```
 </pre>
+
 
 
 ## 🛠️ Tech Arsenal
