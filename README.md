@@ -16,7 +16,6 @@
 **Software Engineer** passionate about building scalable distributed systems and cloud-native applications.
 
 - 🎓 **Education:** B.Tech in Information Technology | KNIT Sultanpur (2018–2022)
-<!-- 💭 **Motto:** Three C's of my life: Chai, Code and Chill ☕💻🌟 -->
 - 🎯 **Current Focus:** Building scalable distributed systems & cloud-native applications
 - ⚡ **Fun Fact:** I architect distributed systems better with a cup of chai in hand!
 
