@@ -45,8 +45,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 
-### 📡 Message Brokers & Streaming
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
