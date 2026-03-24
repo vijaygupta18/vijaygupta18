@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <a href="https://vijaygupta18.github.io/vijaygupta18/terminal.html" target="_blank">
+  <a href="https://vijaygupta18.github.io/terminal.html" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_Try_my_Interactive_Terminal-Click_Here-2196F3?style=for-the-badge&labelColor=0d1117" alt="Interactive Terminal"/>
   </a>
   <br/>
