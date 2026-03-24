@@ -13,20 +13,31 @@
 
 ## 🚀 About Me
 
-**Software Engineer at [Nammayatri](https://github.com/nammayatri/nammayatri) (Juspay)** — building India's largest open-source mobility platform serving millions of rides daily.
-
-I specialize in designing and scaling **distributed systems**, **multi-cloud architectures (AWS + GCP)**, and **high-throughput backend services** in Haskell. From database performance tuning to event-driven microservices, I enjoy solving hard infrastructure problems at scale.
-
 ```bash
-vijay@bangalore:~$ cat profile.sys
-┌─────────────────────────────────────────────────────────────┐
-│  LOCATION    Bangalore, India                               │
-│  EDUCATION   B.Tech IT · KNIT Sultanpur · 2018–2022         │
-│  DOMAIN      Distributed Systems · Cloud-Native · SRE       │
-│  SCALE       Millions of daily users · Multi-cloud (AWS+GCP)│
-│  LANGUAGES   Haskell · Python · TypeScript · PureScript · C++│
-│  STATUS      Open to collaborate on OSS & system design     │
-└─────────────────────────────────────────────────────────────┘
+vijay@bangalore:~$ ./about-me.sh
+
+  ╔═══════════════════════════════════════════════════════════════════╗
+  ║  VIJAY GUPTA — Software Engineer @ Nammayatri (Juspay)          ║
+  ╠═══════════════════════════════════════════════════════════════════╣
+  ║                                                                   ║
+  ║  Building India's largest open-source mobility platform           ║
+  ║  serving millions of rides daily.                                 ║
+  ║                                                                   ║
+  ║  I design & scale distributed systems, multi-cloud architectures  ║
+  ║  (AWS + GCP), and high-throughput backend services in Haskell.    ║
+  ║  From DB performance tuning to event-driven microservices —       ║
+  ║  I solve hard infrastructure problems at scale.                   ║
+  ║                                                                   ║
+  ╠═══════════════════════════════════════════════════════════════════╣
+  ║  LOCATION    → Bangalore, India                                   ║
+  ║  EDUCATION   → B.Tech IT · KNIT Sultanpur · 2018–2022            ║
+  ║  DOMAIN      → Distributed Systems · Cloud-Native · SRE          ║
+  ║  SCALE       → Millions of daily users · Multi-cloud (AWS+GCP)   ║
+  ║  LANGUAGES   → Haskell · Python · TypeScript · PureScript · C++  ║
+  ║  STATUS      → Open to collaborate on OSS & system design        ║
+  ╚═══════════════════════════════════════════════════════════════════╝
+
+vijay@bangalore:~$ _
 ```
 
 ## 🛠️ Tech Arsenal
