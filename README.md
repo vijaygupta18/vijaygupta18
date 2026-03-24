@@ -1,4 +1,4 @@
-# Hey there! I'm Vijay Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2196F3,100:1a1b27&height=200&section=header&text=Vijay%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Open%20Source&descSize=16&descColor=8b949e&descAlignY=55" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Nammayatri+(Juspay);Distributed+Systems+%7C+Multi-Cloud+%7C+Haskell;Three+C's%3A+Chai%2C+Code+and+Chill!" alt="Typing SVG" />
@@ -84,7 +84,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-
 ## 🔬 Featured Projects
 
 <div align="center">
@@ -141,11 +140,11 @@
 </div>
 
 <div align="center">
-  
-  **Thanks for stopping by! 😊**
-  
-  *"The best distributed systems are architected with a cup of chai and thoughtful design!" ☕🏗️*
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=vijaygupta18&label=Visitors&color=2196F3&style=for-the-badge)
+
+**Thanks for stopping by! 😊**
+
+*"The best distributed systems are architected with a cup of chai and thoughtful design." ☕🏗️*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2196F3,100:1a1b27&height=100&section=footer" width="100%" />
 
 </div>
