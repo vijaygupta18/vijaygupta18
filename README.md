@@ -13,16 +13,19 @@
 
 ## 🚀 About Me
 
-```js
-const vijay = {
-    role:       "Software Engineer",
-    company:    "Nammayatri (Juspay)",
-    location:   "Bangalore, India",
-    education:  "B.Tech IT | KNIT Sultanpur (2018–2022)",
-    focus:      ["Distributed Systems", "Cloud-Native Architecture", "Performance Engineering"],
-    motto:      "Jack of All, Master of Some",
-    funFact:    "I architect distributed systems better with a cup of chai in hand! ☕",
-};
+```bash
+vijay@bangalore:~$ cat /etc/vijay.conf
+╭──────────────────────────────────────────────────────────────────╮
+│  ROLE        → Software Engineer                                 │
+│  COMPANY     → Nammayatri (Juspay)                               │
+│  LOCATION    → Bangalore, India                                  │
+│  EDUCATION   → B.Tech IT | KNIT Sultanpur (2018–2022)            │
+│  FOCUS       → Distributed Systems, Cloud-Native, Performance    │
+│  MOTTO       → "Jack of All, Master of Some"                     │
+│  FUN FACT    → I architect systems better with chai in hand ☕    │
+╰──────────────────────────────────────────────────────────────────╯
+vijay@bangalore:~$ uptime
+ up 3 years, building things that scale to millions_
 ```
 
 ## 🛠️ Tech Arsenal
