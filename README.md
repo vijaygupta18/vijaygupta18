@@ -11,31 +11,30 @@
 
 ---
 
-<div align="center">
-  <a href="https://vijaygupta18.github.io/terminal.html" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_Try_my_Interactive_Terminal-Click_Here-2196F3?style=for-the-badge&labelColor=0d1117" alt="Interactive Terminal"/>
-  </a>
-  <br/>
-  <sub>Type commands like <code>whoami</code>, <code>skills</code>, <code>projects</code> to explore my profile</sub>
-</div>
-
----
-
 ## 🚀 About Me
 
 ```bash
-vijay@bangalore:~$ cat /etc/vijay.conf
-╭──────────────────────────────────────────────────────────────────╮
-│  ROLE        → Software Engineer                                 │
-│  COMPANY     → Nammayatri (Juspay)                               │
-│  LOCATION    → Bangalore, India                                  │
-│  EDUCATION   → B.Tech IT | KNIT Sultanpur (2018–2022)            │
-│  FOCUS       → Distributed Systems, Cloud-Native, Performance    │
-│  MOTTO       → "Jack of All, Master of Some"                     │
-│  FUN FACT    → I architect systems better with chai in hand ☕    │
-╰──────────────────────────────────────────────────────────────────╯
+vijay@bangalore:~$ whoami
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Name       : Vijay Gupta
+  Role       : Software Engineer
+  Company    : Nammayatri (Juspay)
+  Location   : Bangalore, India
+  Education  : B.Tech IT | KNIT Sultanpur (2018–2022)
+  Motto      : "Jack of All, Master of Some"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+vijay@bangalore:~$ cat focus.txt
+  ▸ Distributed Systems
+  ▸ Cloud-Native Architecture
+  ▸ Performance Engineering
+  ▸ Microservices & Event-Driven Design
+
 vijay@bangalore:~$ uptime
- up 3 years, building things that scale to millions_
+  up 3 years, building things that scale to millions 🚀
+
+vijay@bangalore:~$ cat /etc/motd
+  "I architect distributed systems better with a cup of chai in hand" ☕
 ```
 
 ## 🛠️ Tech Arsenal
@@ -124,12 +123,12 @@ vijay@bangalore:~$ uptime
 ## 💡 What I'm Up To
 
 ```bash
-$ cat current_status.log
+vijay@bangalore:~$ cat current_status.log
+  [ACTIVE]  Working on distributed systems & microservices architecture
+  [LEARN]   Advanced cloud-native patterns & event-driven architectures
+  [COLLAB]  Open source distributed systems projects
+  [ASK ME]  System Design, Microservices, Performance, Cloud Architecture
 ```
-- 🔭 Currently working on **distributed systems and microservices architecture**
-- 🌱 Learning **advanced cloud-native patterns and event-driven architectures**
-- 👯 Looking to collaborate on **open source distributed systems projects**
-- 💬 Ask me about **System Design, Microservices, Performance Optimization, and Cloud Architecture**
 
 ## 🌐 Let's Connect!
 
