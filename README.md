@@ -13,11 +13,20 @@
 
 ## 🚀 About Me
 
-**Software Engineer at [Nammayatri](https://github.com/nammayatri/nammayatri) (Juspay)** — building India's largest open-source mobility platform serving millions of rides daily across a multi-cloud architecture (AWS + GCP).
+**Software Engineer with 3+ years** designing scalable backend systems. Currently at **[Juspay](https://github.com/nammayatri/nammayatri)** building **NammaYatri** — infrastructure that processes millions of daily rides across India. The kind of work where every millisecond and every rupee of infra cost matters.
+
+My work spans the full backend depth: Redis slot optimization, Kafka consumer tuning, CloudWatch-based auto-scaling, and CPU profiling in Haskell. I care about systems that are observable, cost-efficient, and stay up when traffic spikes unexpectedly.
+
+<div align="center">
+
+![Latency](https://img.shields.io/badge/-40%25%20Latency%20Reduced-2196F3?style=for-the-badge)
+![Infra Cost](https://img.shields.io/badge/-50%25%20Infra%20Cost%20Cut-4ECDC4?style=for-the-badge)
+![Experience](https://img.shields.io/badge/-3%2B%20Years%20Production-FF6B6B?style=for-the-badge)
+
+</div>
 
 - 📍 **Based in:** Bangalore, India
 - 🎓 **Education:** B.Tech in Information Technology | KNIT Sultanpur (2018–2022)
-- 🔧 **What I do:** Design distributed backends in Haskell, optimize systems where milliseconds matter, and build infrastructure that scales
 - ⚡ **Fun Fact:** I architect distributed systems better with a cup of chai in hand!
 
 ## 🛠️ Tech Arsenal
@@ -29,17 +38,20 @@
 
 **💻 Languages**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=haskell,python,ts,js,cpp&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=haskell,java,python,ts,js,cpp&theme=dark" /></a>
 <br/>
 ![PureScript](https://img.shields.io/badge/-PureScript-1D222D?style=flat-square&logo=purescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
 **⚙️ Backend & Databases**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,kafka&theme=dark" /></a>
 <br/>
+![Valkey](https://img.shields.io/badge/-Valkey-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 
 </td>
@@ -102,6 +114,9 @@
 </a>
 <a href="https://github.com/vijaygupta18/Argus">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Argus&theme=tokyonight" />
+</a>
+<a href="https://github.com/vijaygupta18/k8s-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=k8s-dashboard&theme=tokyonight" />
 </a>
 
 </div>
