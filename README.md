@@ -1,7 +1,7 @@
 # Hey there! I'm Vijay Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Three+C's%3A+Chai%2C+Code+and+Chill!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Nammayatri+(Juspay);Distributed+Systems+%7C+Multi-Cloud+%7C+Haskell;Three+C's%3A+Chai%2C+Code+and+Chill!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,10 +13,11 @@
 
 ## 🚀 About Me
 
-**Software Engineer** passionate about building scalable distributed systems and cloud-native applications.
+**Software Engineer at [Nammayatri](https://github.com/nammayatri/nammayatri) (Juspay)** — building India's largest open-source mobility platform serving millions of rides daily across a multi-cloud architecture (AWS + GCP).
 
+- 📍 **Based in:** Bangalore, India
 - 🎓 **Education:** B.Tech in Information Technology | KNIT Sultanpur (2018–2022)
-- 🎯 **Current Focus:** Building scalable distributed systems & cloud-native applications
+- 🔧 **What I do:** Design distributed backends in Haskell, optimize systems where milliseconds matter, and build infrastructure that scales
 - ⚡ **Fun Fact:** I architect distributed systems better with a cup of chai in hand!
 
 ## 🛠️ Tech Arsenal
@@ -81,11 +82,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&theme=tokyonight" alt="GitHub Streak" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&layout=compact&langs_count=8&theme=tokyonight"/> -->
-</div>
-
-<div align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&theme=tokyonight" alt="GitHub Streak" /> -->
 </div>
 
 
@@ -105,16 +101,18 @@
 <a href="https://github.com/vijaygupta18/Multi-Cloud-DB-Manager">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Multi-Cloud-DB-Manager&theme=tokyonight" />
 </a>
+<a href="https://github.com/vijaygupta18/Argus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Argus&theme=tokyonight" />
+</a>
 
 </div>
 
 ## 💡 What I'm Up To
 
-- 🔭 Currently working on **distributed systems and microservices architecture**
-- 🌱 Learning **advanced cloud-native patterns and event-driven architectures**
-- 👯 Looking to collaborate on **open source distributed systems projects**
+- 🔭 Currently building **LLM-powered SRE tooling** — autonomous agents for production debugging ([Vishwakarma](https://github.com/vijaygupta18/Vishwakarma), [Argus](https://github.com/vijaygupta18/Argus))
+- 🌱 Exploring **AI agents for infrastructure** and **advanced event-driven architectures**
+- 👯 Looking to collaborate on **open source distributed systems & AI-ops projects**
 - 💬 Ask me about **System Design, Microservices, Performance Optimization, and Cloud Architecture**
-- ⚡ Fun fact: **I design scalable systems better with chai! ☕**
 
 ## 🌐 Let's Connect!
 
@@ -122,12 +120,12 @@
   <a href="https://linkedin.com/in/vijaygupta18" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<!--   <a href="https://instagram.com/vijayguptaa18" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://vijaygupta18.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.facebook.com/people/vijay-gupta/100050936141588" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a> -->
+  <a href="https://vijaygupta18.github.io/terminal.html" target="_blank">
+    <img src="https://img.shields.io/badge/-Interactive%20Terminal-8B5CF6?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Terminal"/>
+  </a>
 </div>
 
 ## 📈 Contribution Graph
