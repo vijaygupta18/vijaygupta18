@@ -167,6 +167,6 @@ $ cat current_status.log
 
 **Thanks for stopping by! 😊**
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=vijaygupta18&icon=5&color=1)
+![Visitor Count](https://komarev.com/ghpvc/?username=vijaygupta18&label=Visitors&color=2196F3&style=for-the-badge)
 
 </div>
