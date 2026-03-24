@@ -13,28 +13,20 @@
 
 ## 🚀 About Me
 
+**Software Engineer at [Nammayatri](https://github.com/nammayatri/nammayatri) (Juspay)** — building India's largest open-source mobility platform serving millions of rides daily.
+
+I specialize in designing and scaling **distributed systems**, **multi-cloud architectures (AWS + GCP)**, and **high-throughput backend services** in Haskell. From database performance tuning to event-driven microservices, I enjoy solving hard infrastructure problems at scale.
+
 ```bash
-vijay@bangalore:~$ whoami
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Name       : Vijay Gupta
-  Role       : Software Engineer
-  Company    : Nammayatri (Juspay)
-  Location   : Bangalore, India
-  Education  : B.Tech IT | KNIT Sultanpur (2018–2022)
-  Motto      : "Jack of All, Master of Some"
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-vijay@bangalore:~$ cat focus.txt
-  ▸ Distributed Systems
-  ▸ Cloud-Native Architecture
-  ▸ Performance Engineering
-  ▸ Microservices & Event-Driven Design
-
-vijay@bangalore:~$ uptime
-  up 3 years, building things that scale to millions 🚀
-
-vijay@bangalore:~$ cat /etc/motd
-  "I architect distributed systems better with a cup of chai in hand" ☕
+vijay@bangalore:~$ cat profile.sys
+┌─────────────────────────────────────────────────────────────┐
+│  LOCATION    Bangalore, India                               │
+│  EDUCATION   B.Tech IT · KNIT Sultanpur · 2018–2022         │
+│  DOMAIN      Distributed Systems · Cloud-Native · SRE       │
+│  SCALE       Millions of daily users · Multi-cloud (AWS+GCP)│
+│  LANGUAGES   Haskell · Python · TypeScript · PureScript · C++│
+│  STATUS      Open to collaborate on OSS & system design     │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ## 🛠️ Tech Arsenal
