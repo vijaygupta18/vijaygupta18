@@ -88,11 +88,6 @@
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&theme=tokyonight" alt="GitHub Streak" /> -->
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijaygupta18&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ## 🔬 Featured Projects
 
@@ -119,7 +114,6 @@
 - 🌱 Learning **advanced cloud-native patterns and event-driven architectures**
 - 👯 Looking to collaborate on **open source distributed systems projects**
 - 💬 Ask me about **System Design, Microservices, Performance Optimization, and Cloud Architecture**
-- 📫 Reach me at: **[Your Email]**
 - ⚡ Fun fact: **I design scalable systems better with chai! ☕**
 
 ## 🌐 Let's Connect!
@@ -154,6 +148,6 @@
   
   *"The best distributed systems are architected with a cup of chai and thoughtful design!" ☕🏗️*
   
-  ![Visitor Count](https://profile-counter.glitch.me/vijaygupta18/count.svg)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=vijaygupta18&label=Visitors&color=2196F3&style=for-the-badge)
 
 </div>
