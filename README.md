@@ -1,197 +1,220 @@
-# Hey there! I'm Vijay Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Three+C's%3A+Chai%2C+Code+and+Chill!" alt="Typing SVG" />
+
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=1a1b27&height=200&section=header&text=Vijay%20Gupta&fontSize=50&fontColor=70a5fd&animation=twinkling&stroke=70a5fd&strokeWidth=1" width="100%" />
+
+<!-- TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=70A5FD&center=true&vCenter=true&repeat=true&random=false&width=700&height=45&lines=%E2%96%B8+Software+Engineer+%40+Nammayatri+(Juspay);%E2%96%B8+Distributed+Systems+%7C+Multi-Cloud+%7C+Haskell;%E2%96%B8+Scaling+India's+Largest+Open-Source+Mobility+Platform" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- METRICS -->
+<img src="https://komarev.com/ghpvc/?username=vijaygupta18&label=Profile+Views&color=70a5fd&style=flat-square" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/vijaygupta18?label=Followers&style=flat-square&color=bf91f3" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/vijaygupta18?label=Stars&style=flat-square&color=70a5fd" />
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaygupta18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vijaygupta18?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+<br/>
 
----
+<!-- ═══════════════════════════════════ ABOUT ME ═══════════════════════════════════ -->
 
-## 🚀 About Me
+## `> ./about-me.sh`
 
 ```bash
 vijay@bangalore:~$ ./about-me.sh
 
-  ╔═══════════════════════════════════════════════════════════════════╗
-  ║  VIJAY GUPTA — Software Engineer @ Nammayatri (Juspay)          ║
-  ╠═══════════════════════════════════════════════════════════════════╣
-  ║                                                                   ║
-  ║  Building India's largest open-source mobility platform           ║
-  ║  serving millions of rides daily.                                 ║
-  ║                                                                   ║
-  ║  I design & scale distributed systems, multi-cloud architectures  ║
-  ║  (AWS + GCP), and high-throughput backend services in Haskell.    ║
-  ║  From DB performance tuning to event-driven microservices —       ║
-  ║  I solve hard infrastructure problems at scale.                   ║
-  ║                                                                   ║
-  ╠═══════════════════════════════════════════════════════════════════╣
-  ║  LOCATION    → Bangalore, India                                   ║
-  ║  EDUCATION   → B.Tech IT · KNIT Sultanpur · 2018–2022            ║
-  ║  DOMAIN      → Distributed Systems · Cloud-Native · SRE          ║
-  ║  SCALE       → Millions of daily users · Multi-cloud (AWS+GCP)   ║
-  ║  LANGUAGES   → Haskell · Python · TypeScript · PureScript · C++  ║
-  ║  STATUS      → Open to collaborate on OSS & system design        ║
-  ╚═══════════════════════════════════════════════════════════════════╝
+  ╔════════════════════════════════════════════════════════════════════════╗
+  ║                                                                        ║
+  ║   VIJAY GUPTA                                                          ║
+  ║   Software Engineer · Nammayatri (Juspay) · Bangalore, India           ║
+  ║                                                                        ║
+  ╠════════════════════════════════════════════════════════════════════════╣
+  ║                                                                        ║
+  ║   Building India's largest open-source mobility platform — a system    ║
+  ║   that orchestrates millions of rides daily across a multi-cloud       ║
+  ║   architecture spanning AWS and GCP.                                   ║
+  ║                                                                        ║
+  ║   I architect distributed backends in Haskell, design multi-cloud      ║
+  ║   data pipelines, and optimize systems where milliseconds matter.      ║
+  ║   My work sits at the intersection of reliability engineering,         ║
+  ║   database performance, and event-driven architecture.                 ║
+  ║                                                                        ║
+  ╠════════════════════════════════════════════════════════════════════════╣
+  ║                                                                        ║
+  ║   EDUCATION   B.Tech IT · KNIT Sultanpur · 2018–2022                   ║
+  ║   DOMAIN      Distributed Systems · Cloud-Native · Reliability         ║
+  ║   SCALE       Millions of users · Multi-cloud (AWS + GCP)              ║
+  ║   OPEN TO     OSS collaboration · System design discussions            ║
+  ║                                                                        ║
+  ╚════════════════════════════════════════════════════════════════════════╝
 
 vijay@bangalore:~$ _
 ```
 
-## 🛠️ Tech Arsenal
+<!-- ═══════════════════════════════════ TECH STACK ═══════════════════════════════════ -->
 
-```bash
-vijay@bangalore:~$ neofetch --tech-stack
+## `> neofetch --tech-stack`
+
+```
+                    vijay@bangalore
+   .--.            ─────────────────────────
+  |o_o |           OS      : Distributed Systems Engineer
+  |:_/ |           Uptime  : 3+ years @ Juspay
+  //   \ \         Shell   : Haskell, Python, TypeScript
+ (|     | )        DE      : VS Code + Vim on Linux
+/'\_   _/'\        Theme   : Tokyo Night
+\___)=(___/        Coffee  : Chai, actually ☕
 ```
 
 <div align="center">
+
 <table>
 <tr>
 <td align="center" width="50%">
 
-<h4>💻 Languages</h4>
-
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PureScript](https://img.shields.io/badge/-PureScript-1D222D?style=flat-square&logo=purescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**`LANGUAGES`**
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=haskell,python,ts,js,cpp&theme=dark" alt="Languages" /></a>
 
 </td>
 <td align="center" width="50%">
 
-<h4>⚙️ Backend & Data</h4>
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+**`BACKEND & DATA`**
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,mongodb&theme=dark" alt="Backend" /></a>
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-<h4>☁️ Cloud & DevOps</h4>
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**`CLOUD & DEVOPS`**
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions&theme=dark" alt="Cloud" /></a>
 
 </td>
 <td align="center" width="50%">
 
-<h4>🌐 Frontend & Tools</h4>
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**`FRONTEND & TOOLS`**
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,html,css,git,linux,vscode&theme=dark" alt="Tools" /></a>
 
 </td>
 </tr>
 </table>
 
-**🎯 Core Specializations**
+<br/>
 
-![System Design](https://img.shields.io/badge/-System%20Design-FF6B6B?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-45B7D1?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/-Microservices-96CEB4?style=for-the-badge)
-![Performance](https://img.shields.io/badge/-Performance%20Optimization-4ECDC4?style=for-the-badge)
-![Event Driven](https://img.shields.io/badge/-Event--Driven%20Architecture-FFEAA7?style=for-the-badge)
+```
+┌─────────────────────────────────── SPECIALIZATIONS ──────────────────────────────────┐
+│  System Design  ·  Distributed Systems  ·  Microservices  ·  Performance Engineering │
+│  Event-Driven Architecture  ·  Multi-Cloud  ·  Database Optimization  ·  SRE         │
+└──────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-## 📊 GitHub Analytics
+<!-- ═══════════════════════════════════ PROJECTS ═══════════════════════════════════ -->
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&theme=tokyonight" alt="GitHub Streak" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&layout=compact&langs_count=8&theme=tokyonight"/> -->
-</div>
+## `> ls -la ~/projects/`
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijaygupta18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-
-## 🔬 Featured Projects
+```
+drwxr-xr-x  vijay  staff  nammayatri/          # India's largest open-source mobility platform
+drwxr-xr-x  vijay  staff  Vishwakarma/         # Autonomous SRE agent powered by LLMs
+drwxr-xr-x  vijay  staff  NodeSage/            # RAG-powered code Q&A and fixer CLI
+drwxr-xr-x  vijay  staff  Multi-Cloud-DB-Mgr/  # PostgreSQL management across AWS/GCP/Azure
+drwxr-xr-x  vijay  staff  Argus/               # AI-powered production issue dashboard
+```
 
 <div align="center">
 
 <a href="https://github.com/nammayatri/nammayatri">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nammayatri&repo=nammayatri&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nammayatri&repo=nammayatri&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
-<a href="https://github.com/vijaygupta18/NodeSage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=NodeSage&theme=tokyonight" />
-</a>
-<a href="https://github.com/vijaygupta18/Multi-Cloud-DB-Manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Multi-Cloud-DB-Manager&theme=tokyonight" />
-</a>
+&nbsp;
 <a href="https://github.com/vijaygupta18/Vishwakarma">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Vishwakarma&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Vishwakarma&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+
+<a href="https://github.com/vijaygupta18/NodeSage">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=NodeSage&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</a>
+&nbsp;
+<a href="https://github.com/vijaygupta18/Multi-Cloud-DB-Manager">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Multi-Cloud-DB-Manager&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
 
 </div>
 
-## 💡 What I'm Up To
+<!-- ═══════════════════════════════════ GITHUB STATS ═══════════════════════════════════ -->
+
+## `> git stats --verbose`
+
+<div align="center">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&ring_color=70a5fd" />
+&nbsp;
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&background=1a1b27&border=1a1b27&stroke=1a1b27&ring=70a5fd&fire=bf91f3&currStreakNum=70a5fd&sideNums=70a5fd&currStreakLabel=bf91f3&sideLabels=a9b1d6&dates=545c7e" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vijaygupta18&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area_color=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Timeline" />
+
+</div>
+
+<!-- ═══════════════════════════════════ CURRENTLY ═══════════════════════════════════ -->
+
+## `> cat /var/log/status.log`
 
 ```bash
-vijay@bangalore:~$ cat current_status.log
-  [ACTIVE]  Working on distributed systems & microservices architecture
-  [LEARN]   Advanced cloud-native patterns & event-driven architectures
-  [COLLAB]  Open source distributed systems projects
-  [ASK ME]  System Design, Microservices, Performance, Cloud Architecture
+vijay@bangalore:~$ tail -f /var/log/status.log
+
+  [2024-PRESENT]  Scaling Nammayatri's distributed backend for millions of daily rides
+  [BUILDING]      Multi-cloud infrastructure across AWS & GCP
+  [EXPLORING]     LLM-powered SRE tooling & autonomous agents
+  [LEARNING]      Advanced cloud-native patterns & event-driven systems
+  [OPEN TO]       System design discussions & open-source collaboration
+
+vijay@bangalore:~$ _
 ```
 
-## 🌐 Let's Connect!
+<!-- ═══════════════════════════════════ CONNECT ═══════════════════════════════════ -->
+
+## `> cat ~/.contact`
 
 <div align="center">
-  <a href="https://linkedin.com/in/vijaygupta18" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://vijaygupta18.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/vijaygupta18" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+<a href="https://linkedin.com/in/vijaygupta18" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://vijaygupta18.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-70a5fd?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://vijaygupta18.github.io/terminal.html" target="_blank">
+  <img src="https://img.shields.io/badge/Interactive_Terminal-bf91f3?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+</a>
+
 </div>
 
-## 📈 Contribution Graph
+<!-- ═══════════════════════════════════ FOOTER ═══════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaygupta18&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 💭 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
+<br/>
 
 <div align="center">
 
 ```
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-  "Good code is its own best documentation." — Steve McConnell
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │  "First, solve the problem. Then, write the code." — John Johnson     │
+  └────────────────────────────────────────────────────────────────────────┘
 ```
 
-**Thanks for stopping by! 😊**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=vijaygupta18&label=Visitors&color=2196F3&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=100&section=footer&fontSize=0" width="100%" />
 
 </div>
