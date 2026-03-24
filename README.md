@@ -154,6 +154,6 @@ $ cat current_status.log
 
 **Thanks for stopping by! 😊**
 
-![Visitor Count](https://profile-counter.glitch.me/vijaygupta18/count.svg)
+![Visitor Count](https://visitcount.itsvg.in/api?id=vijaygupta18&icon=5&color=1)
 
 </div>
