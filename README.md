@@ -13,11 +13,17 @@
 
 ## 🚀 About Me
 
-**Software Engineer** passionate about building scalable distributed systems and cloud-native applications.
-
-- 🎓 **Education:** B.Tech in Information Technology | KNIT Sultanpur (2018–2022)
-- 🎯 **Current Focus:** Building scalable distributed systems & cloud-native applications
-- ⚡ **Fun Fact:** I architect distributed systems better with a cup of chai in hand!
+```js
+const vijay = {
+    role:       "Software Engineer",
+    company:    "Nammayatri (Juspay)",
+    location:   "Bangalore, India",
+    education:  "B.Tech IT | KNIT Sultanpur (2018–2022)",
+    focus:      ["Distributed Systems", "Cloud-Native Architecture", "Performance Engineering"],
+    motto:      "Jack of All, Master of Some",
+    funFact:    "I architect distributed systems better with a cup of chai in hand! ☕",
+};
+```
 
 ## 🛠️ Tech Arsenal
 
@@ -44,8 +50,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-
-
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -78,10 +82,6 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&layout=compact&langs_count=8&theme=tokyonight"/> -->
 </div>
 
-<div align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&theme=tokyonight" alt="GitHub Streak" /> -->
-</div>
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -89,14 +89,34 @@
 </div>
 
 
+## 🔬 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/nammayatri/nammayatri">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nammayatri&repo=nammayatri&theme=tokyonight" />
+</a>
+<a href="https://github.com/vijaygupta18/NodeSage">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=NodeSage&theme=tokyonight" />
+</a>
+<a href="https://github.com/vijaygupta18/Multi-Cloud-DB-Manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Multi-Cloud-DB-Manager&theme=tokyonight" />
+</a>
+<a href="https://github.com/vijaygupta18/Vishwakarma">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Vishwakarma&theme=tokyonight" />
+</a>
+
+</div>
+
 ## 💡 What I'm Up To
 
+```bash
+$ cat current_status.log
+```
 - 🔭 Currently working on **distributed systems and microservices architecture**
 - 🌱 Learning **advanced cloud-native patterns and event-driven architectures**
 - 👯 Looking to collaborate on **open source distributed systems projects**
 - 💬 Ask me about **System Design, Microservices, Performance Optimization, and Cloud Architecture**
-- 📫 Reach me at: **[Your Email]**
-- ⚡ Fun fact: **I design scalable systems better with chai! ☕**
 
 ## 🌐 Let's Connect!
 
@@ -104,12 +124,12 @@
   <a href="https://linkedin.com/in/vijaygupta18" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<!--   <a href="https://instagram.com/vijayguptaa18" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://vijaygupta18.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.facebook.com/people/vijay-gupta/100050936141588" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a> -->
+  <a href="https://github.com/vijaygupta18" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 ## 📈 Contribution Graph
@@ -125,11 +145,15 @@
 </div>
 
 <div align="center">
-  
-  **Thanks for stopping by! 😊**
-  
-  *"The best distributed systems are architected with a cup of chai and thoughtful design!" ☕🏗️*
-  
-  ![Visitor Count](https://profile-counter.glitch.me/vijaygupta18/count.svg)
+
+```
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+  "Good code is its own best documentation." — Steve McConnell
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+```
+
+**Thanks for stopping by! 😊**
+
+![Visitor Count](https://profile-counter.glitch.me/vijaygupta18/count.svg)
 
 </div>
