@@ -1,135 +1,230 @@
-# Hey there! I'm Vijay Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Three+C's%3A+Chai%2C+Code+and+Chill!" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaygupta18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vijaygupta18?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
----
-
-## 🚀 About Me
-
-**Software Engineer** passionate about building scalable distributed systems and cloud-native applications.
-
-- 🎓 **Education:** B.Tech in Information Technology | KNIT Sultanpur (2018–2022)
-- 🎯 **Current Focus:** Building scalable distributed systems & cloud-native applications
-- ⚡ **Fun Fact:** I architect distributed systems better with a cup of chai in hand!
-
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
-### 💻 Programming Languages
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PureScript](https://img.shields.io/badge/-PureScript-1D222D?style=for-the-badge&logo=purescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<!-- HEADER: Animated Capsule Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:00d4ff,75:7c3aed,100:0d1117&height=220&section=header&text=VIJAY%20GUPTA&fontSize=60&fontColor=00d4ff&fontAlignY=35&desc=%E2%96%B8%20Software%20Engineer%20%E2%96%B8%20Systems%20Architect%20%E2%96%B8%20Open%20Source&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%24+whoami;%3E+Distributed+Systems+Engineer+%40+Nammayatri;%3E+Building+systems+that+scale+to+millions+%F0%9F%9A%80" alt="Terminal Typing" />
+</a>
 
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-
-
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🔧 Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🎯 Core Specializations
-![System Design](https://img.shields.io/badge/-System%20Design-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white)
-![Performance Optimization](https://img.shields.io/badge/-Performance%20Optimization-4ECDC4?style=for-the-badge&logo=speedtest&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-45B7D1?style=for-the-badge&logo=cluster&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-96CEB4?style=for-the-badge&logo=microservices&logoColor=white)
-![Event-Driven Architecture](https://img.shields.io/badge/-Event--Driven%20Architecture-FFEAA7?style=for-the-badge&logo=eventbrite&logoColor=black)
+<!-- PROFILE METRICS BAR -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=vijaygupta18&label=PROFILE+VIEWS&color=00d4ff&style=flat-square&labelColor=0d1117" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/vijaygupta18?label=FOLLOWERS&color=7c3aed&style=flat-square&labelColor=0d1117&logo=github" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/vijaygupta18?label=TOTAL+STARS&color=00d4ff&style=flat-square&labelColor=0d1117&logo=github" alt="Stars" />
 
 </div>
 
-## 📊 GitHub Analytics
+<!-- ABOUT SECTION -->
+<br/>
+
+```
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║                                                                  ║
+  ║   > SYSTEM.PROFILE.LOAD("vijay_gupta")                          ║
+  ║                                                                  ║
+  ║   Name     : Vijay Gupta                                         ║
+  ║   Role     : Software Engineer                                   ║
+  ║   Location : Bangalore, India                                    ║
+  ║   Company  : Nammayatri (Juspay)                                 ║
+  ║   Education: B.Tech IT | KNIT Sultanpur (2018-2022)              ║
+  ║   Focus    : Distributed Systems & Cloud-Native Architecture     ║
+  ║   Motto    : "Jack of All, Master of Some"                       ║
+  ║                                                                  ║
+  ║   STATUS: ONLINE ████████████████████████████████████████ 100%   ║
+  ║                                                                  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+```
+
+<!-- TECH STACK -->
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px">
+&nbsp;TECH STACK
+</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&theme=tokyonight" alt="GitHub Streak" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygupta18&layout=compact&langs_count=8&theme=tokyonight"/> -->
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**`> LANGUAGES`**
+
+<br/>
+
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PureScript](https://img.shields.io/badge/PureScript-1D222D?style=for-the-badge&logo=purescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+**`> BACKEND & DATA`**
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**`> CLOUD & DEVOPS`**
+
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+**`> FRONTEND & TOOLS`**
+
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**`> CORE SPECIALIZATIONS`**
+
+<br/>
+
+![System Design](https://img.shields.io/badge/System_Design-00d4ff?style=for-the-badge&labelColor=0d1117)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-7c3aed?style=for-the-badge&labelColor=0d1117)
+![Microservices](https://img.shields.io/badge/Microservices-00d4ff?style=for-the-badge&labelColor=0d1117)
+![Performance](https://img.shields.io/badge/Performance_Optimization-7c3aed?style=for-the-badge&labelColor=0d1117)
+![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-00d4ff?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
+<!-- FEATURED PROJECTS -->
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24px" height="24px">
+&nbsp;FEATURED PROJECTS
+</h2>
+
 <div align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&theme=tokyonight" alt="GitHub Streak" /> -->
+
+<a href="https://github.com/nammayatri/nammayatri">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nammayatri&repo=nammayatri&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e" />
+</a>
+&nbsp;
+<a href="https://github.com/vijaygupta18/NodeSage">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=NodeSage&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e" />
+</a>
+
+<a href="https://github.com/vijaygupta18/Multi-Cloud-DB-Manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Multi-Cloud-DB-Manager&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e" />
+</a>
+&nbsp;
+<a href="https://github.com/vijaygupta18/Vishwakarma">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Vishwakarma&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e" />
+</a>
+
 </div>
 
-## 🏆 GitHub Achievements
+<!-- GITHUB ANALYTICS -->
+<h2>
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="24px" height="24px">
+&nbsp;GITHUB ANALYTICS
+</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijaygupta18&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vijaygupta18&show_icons=true&hide=issues&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&ring_color=00d4ff" alt="GitHub Stats" />
+&nbsp;
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaygupta18&background=0d1117&border=161b22&stroke=161b22&ring=00d4ff&fire=7c3aed&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=7c3aed&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" />
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=vijaygupta18&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area_color=7c3aed&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="Activity Graph" />
+
 </div>
 
-
-## 💡 What I'm Up To
-
-- 🔭 Currently working on **distributed systems and microservices architecture**
-- 🌱 Learning **advanced cloud-native patterns and event-driven architectures**
-- 👯 Looking to collaborate on **open source distributed systems projects**
-- 💬 Ask me about **System Design, Microservices, Performance Optimization, and Cloud Architecture**
-- 📫 Reach me at: **[Your Email]**
-- ⚡ Fun fact: **I design scalable systems better with chai! ☕**
-
-## 🌐 Let's Connect!
+<!-- TROPHIES -->
+<h2>
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="24px" height="24px">
+&nbsp;ACHIEVEMENTS
+</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/vijaygupta18" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-<!--   <a href="https://instagram.com/vijayguptaa18" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/people/vijay-gupta/100050936141588" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaygupta18&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
 </div>
 
-## 📈 Contribution Graph
-
+<!-- SNAKE -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaygupta18&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijaygupta18/vijaygupta18/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijaygupta18/vijaygupta18/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/vijaygupta18/vijaygupta18/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
-## 💭 Dev Quote of the Day
+<!-- CONNECT -->
+<h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24px" height="24px">
+&nbsp;CONNECT
+</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+<a href="https://linkedin.com/in/vijaygupta18" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://vijaygupta18.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+&nbsp;
+<a href="https://github.com/vijaygupta18" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
 </div>
 
+<!-- FOOTER -->
+<br/>
+
 <div align="center">
-  
-  **Thanks for stopping by! 😊**
-  
-  *"The best distributed systems are architected with a cup of chai and thoughtful design!" ☕🏗️*
-  
-  ![Visitor Count](https://profile-counter.glitch.me/vijaygupta18/count.svg)
+
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │                                                              │
+  │   "The best distributed systems are designed with chai       │
+  │    and first-principles thinking."                           │
+  │                                                              │
+  │                                        — Vijay Gupta         │
+  │                                                              │
+  └──────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:00d4ff,75:7c3aed,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
