@@ -115,8 +115,8 @@ My work spans the full backend depth: Redis slot optimization, Kafka consumer tu
 <a href="https://github.com/vijaygupta18/Argus">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=Argus&theme=tokyonight" />
 </a>
-<a href="https://github.com/vijaygupta18/k8s-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=k8s-dashboard&theme=tokyonight" />
+<a href="https://github.com/vijaygupta18/vishwakarma">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijaygupta18&repo=vishwakarma&theme=tokyonight" />
 </a>
 
 </div>
