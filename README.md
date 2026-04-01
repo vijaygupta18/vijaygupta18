@@ -54,34 +54,6 @@ vijay@portfolio:~$ whoami
 
   Drove $126K annual savings · 45% latency reduction · 99.9% uptime
   Architected multi-cloud infrastructure with zero-downtime deployments
-
-vijay@portfolio:~$ skills
-
-  // Languages
-  import { Haskell, Python, C++, JavaScript, TypeScript, SQL, Java } from "languages"
-  // Data & Messaging
-  import { Redis, Valkey, Kafka, RabbitMQ, PostgreSQL, ClickHouse } from "data-layer"
-  // Cloud & DevOps
-  import { AWS, Kubernetes, Docker, Lambda, CI_CD, Autoscaling } from "infrastructure"
-  // Observability
-  import { Grafana, Prometheus, VictoriaMetrics, CloudWatch } from "monitoring"
-
-vijay@portfolio:~$ experience --highlight
-
-  → Scaled Redis/Valkey KV to 5M+ txns/day & 5K+ events/sec
-  → Zero-downtime Redis→Valkey migration: memory ↓50%, cost ↓40%
-  → Built Vishwakarma: autonomous SRE agent, 16 parallel investigations
-  → P95 API latency improved by 45% via profiling & I/O optimization
-  → In-memory GTFS service: hot-path latency ↓60% at 5K+ req/sec
-  → 75% reduction in 5xx errors, maintained 99.9% availability
-
-vijay@portfolio:~$ help
-
-  whoami       — who is vijay gupta?       projects    — things I've built
-  skills       — tech stack                education   — degrees & certs
-  experience   — work history              contact     — get in touch
-  resume       — open resume PDF           git log     — easter egg!
-  man vijay    — the man page              sudo        — try it ;)
 ```
 
 ---
